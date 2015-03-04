@@ -5,9 +5,7 @@ import com.mkyong.common.model.Movie;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import java.io.FileOutputStream;
 import java.io.IOException;
-import java.io.ObjectOutputStream;
 
 /**
  * Created by elizaveta on 01.03.2015.
